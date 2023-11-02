@@ -1,3 +1,4 @@
+pip install streamlit sympy
 import streamlit as st
 import pandas as pd
 from sympy import *
